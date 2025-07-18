@@ -65,7 +65,7 @@ const Hero = () => {
           
           <div className="flex flex-col sm:flex-row items-center justify-center space-y-4 sm:space-y-0 sm:space-x-6">
             <a
-              href="#"
+              href="/manan-portfolio/Resume_Manan kant Agarwal.pdf"
               className="inline-flex items-center px-8 py-3 bg-primary-600 text-white font-semibold rounded-lg hover:bg-primary-700 transition-all duration-300 shadow-lg hover:shadow-xl"
             >
               <Download size={20} className="mr-2" />
